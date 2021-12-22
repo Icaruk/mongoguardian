@@ -1,0 +1,32 @@
+{
+	"name": "mongoguardian",
+	"version": "0.0.1",
+	"description": "MongoDB backup",
+	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Icaruk/mongoguardian"
+	},
+	"bugs": {
+		"url": "https://github.com/Icaruk/mongoguardian"
+	},
+	"homepage": "https://github.com/Icaruk",
+	"scripts": {
+		"start": "node index.js"
+	},
+	"keywords": [
+		"node",
+		"mongo",
+		"mongodb",
+		"mongotools",
+		"backup",
+		"dump"
+	],
+	"contributors": [
+		"Icaruk <adrian@icaruk.dev>"
+	],
+	"license": "ISC",
+	"files": [
+		"index.js"
+	]
+}
